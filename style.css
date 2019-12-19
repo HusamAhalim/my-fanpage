@@ -1,0 +1,26 @@
+
+body {background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+#quote {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    
+}
+
+#col-38 {
+    text-decoration: red;
+    margin-left: 490px;
+    margin-right: 450px;
+text-align: center;
+background-color: rgb(2, 8, 22);
+    font-size: 40px;
+}
+
+#alb-list {
+font-size: 20px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
